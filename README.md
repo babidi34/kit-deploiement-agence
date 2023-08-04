@@ -39,7 +39,7 @@ Bienvenue dans le référentiel d'Agence Déploiement Express, où vous trouvere
    ```
 4. On installe les prérequis de déploiement (ansible et ses modules) :
 
-  ```bash
+   ```bash
    pip install -r requirements.txt
    ```
 
