@@ -26,7 +26,7 @@ Bienvenue dans le référentiel d'Agence Déploiement Express, où vous trouvere
 1. Installez `virtualenv` si vous ne l'avez pas déjà :
 
    ```bash
-   pip install virtualenv
+   pip3 install virtualenv
    ```
 2. Création du virtualenv nommé venv :
    ```bash
