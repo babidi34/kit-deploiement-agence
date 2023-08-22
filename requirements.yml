@@ -1,0 +1,4 @@
+---
+- name: secure-os
+  src: https://gitlab.com/linux-man-agences-web/ansible-role-secure-os
+  scm: git

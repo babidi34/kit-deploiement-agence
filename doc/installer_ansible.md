@@ -6,3 +6,4 @@
 4. Activez l'environnement avec `source venv/bin/activate`.
 5. Installez Ansible dans l'environnement virtuel avec `pip install -r requirements.txt`.
 6. Verifiez l'installation avec `ansible --version`.
+7. Enfin installez les roles ansible avec `ansible-galaxy install -r requirements.yml --force`
